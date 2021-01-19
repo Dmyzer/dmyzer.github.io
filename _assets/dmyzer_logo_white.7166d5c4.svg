@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1430" height="384.706" viewBox="0 0 1430 384.706">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e3e2e2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_322" data-name="Group 322" transform="translate(-82 -348)">
+    <g id="Group_292" data-name="Group 292" transform="translate(0 0.101)">
+      <path id="Path_1239" data-name="Path 1239" d="M43.955,11.575l128.271,40.03,123.643-40.03,43.771,13.391L174,126.605,2.188,24.966Z" transform="translate(82 582)" fill="#e3e2e2"/>
+      <path id="Path_1240" data-name="Path 1240" d="M60.529-3.54,179.736-36.325,281.854,4.7l57.787,20.266L174,126.605,2.188,24.966Z" transform="translate(80 494)" fill="#e3e2e2"/>
+      <path id="Path_1235" data-name="Path 1235" d="M0,0,172.226,51.605,339,0V75L174,126.605,0,75Z" transform="translate(82 396)" fill="#fff"/>
+      <path id="Path_1236" data-name="Path 1236" d="M0,0,172.226,51.605,339,0V75L174,126.605,0,75Z" transform="translate(82 519)" fill="#fff"/>
+      <path id="Path_1237" data-name="Path 1237" d="M0,0,172.226,51.605,339,0V75L174,126.605,0,75Z" transform="translate(82 606)" fill="#fff"/>
+      <path id="Path_1238" data-name="Path 1238" d="M18572.088,14551.052l-171.789-50.9,171.789-49.25,163.563,49.25Z" transform="translate(-18317 -14103)" fill="url(#radial-gradient)"/>
+    </g>
+    <text id="Dmyzer" transform="translate(535 632)" fill="#fff" font-size="260" font-family="Raleway" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">Dmyzer</tspan></text>
+  </g>
+</svg>
